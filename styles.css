@@ -1,0 +1,19 @@
+.container {
+  background-image: url("./images/Header-llustration-desktop.svg");
+  background-repeat: no-repeat;
+  justify-content: space-around;
+  align-items: center;
+  width: auto;
+}
+
+.container p {
+  color: #172b4d;
+}
+
+.container h2 {
+  color: #172b4d;
+}
+
+.container span {
+  color: #36b37e;
+}
