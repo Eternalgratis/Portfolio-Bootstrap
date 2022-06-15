@@ -17,7 +17,13 @@ A Portfolio Project using Bootstrap
 - Twitter: [@eternalgratis](https://twitter.com/eternalgratis)
 - LinkedIn: [@eternalgratis](https://www.linkedin.com/in/titilope-apuabi-69a98719b/)
 
-## 🤝 Contributing
+## 🤝 Contributor
+
+- Aneal Laryea
+
+* Github: [@aneallaryea](https://github.com/aneallaryea100)
+* LinkdIn: [@aneallaryea](https://www.linkedin.com/in/nii-aneal-84ba7a147)
+* Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 
 Contributions, issues, and feature requests are welcome!
 
